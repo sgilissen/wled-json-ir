@@ -1,0 +1,84 @@
+{
+  "0xFFA25D": {
+    "label": "On",
+    "cmd": "T=1",
+    "rpt": true
+  },
+  "0xFFE21D": {
+    "label": "Off",
+    "cmd": "T=0",
+    "rpt": true
+  },
+  "0xFF22DD": {
+    "label": "Mode +",
+    "cmd": "FX=~"
+  },
+  "0xFFE01F": {
+    "label": "Mode -",
+    "cmd": "FX=~-"
+  },
+  "0xFF6897": {
+    "label": "Color +",
+    "cmd": "FP=~"
+  },
+  "0xFFB04F": {
+    "label": "Color +",
+    "cmd": "FP=~-"
+  },
+  "0xFF9867": {
+    "label": "White",
+    "cmd": "R=0&G=0&B=0&W=255"
+  },
+  "0xFF30CF": {
+    "label": "Red",
+    "cmd": "R=255&G=0&B=0&W=0"
+  },
+  "0xFF18E7": {
+    "label": "Green",
+    "cmd": "R=0&G=255&B=0&W=0"
+  },
+  "0xFF7A85": {
+    "label": "Blue",
+    "cmd": "R=0&G=0&B=255&W=0"
+  },
+  "0xFF02FD": {
+    "label": "Speed +",
+    "cmd": "SX=~16"
+  },
+  "0xFFA857": {
+    "label": "Speed -",
+    "cmd": "SX=~-16"
+  },
+  "0xFFC23D": {
+    "label": "Brightness +",
+    "cmd": "&A=~15"
+  },
+  "0xFF906F": {
+    "label": "Brightness -",
+    "cmd": "&A=~-15"
+  },
+  "0xFF10EF": {
+    "label": "Preset 1",
+    "cmd": "&FX=0"
+  },
+  "0xFF38C7": {
+    "label": "Preset 2",
+    "cmd": "&FX=1"
+  },
+  "0xFF5AA5": {
+    "label": "Preset 3",
+    "cmd": "&FX=2"
+  },
+  "0xFF42BD": {
+    "label": "Preset 4",
+    "cmd": "&FX=3"
+  },
+  "0xFF4AB5": {
+    "label": "Preset 5",
+    "cmd": "&FX=4"
+  },
+  "0xFF52AD": {
+    "label": "Preset 6",
+    "cmd": "&FX=5"
+  }
+}
