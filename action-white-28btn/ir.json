@@ -1,0 +1,116 @@
+{
+  "0xF7F807": {
+    "label": "On",
+    "cmd": "T=1",
+    "rpt": true
+  },
+  "0xF77887": {
+    "label": "Off",
+    "cmd": "T=0",
+    "rpt": true
+  },
+  "0xFF22DD": {
+    "label": "Mode",
+    "cmd": "FX=~"
+  },
+  "0xFF9867": {
+    "label": "Warm White",
+    "cmd": "R=253&G=244&B=220&W=0"
+  },
+  "0xF7B04F": {
+    "label": "Neutral",
+    "cmd": "R=200&G=200&B=200&W=0"
+  },
+  "0xF7708F": {
+    "label": "Cold White",
+    "cmd": "R=250&G=250&B=255&W=0"
+  },
+  "0xF700FF": {
+    "label": "Red",
+    "cmd": "R=255&G=0&B=0&W=0"
+  },
+  "0xF7807F": {
+    "label": "Green",
+    "cmd": "R=0&G=255&B=0&W=0"
+  },
+  "0xF740BF": {
+    "label": "Blue",
+    "cmd": "R=0&G=0&B=255&W=0"
+  },
+  "0xF720DF": {
+    "label": "Orange",
+    "cmd": "R=250&G=150&B=0&W=0"
+  },
+  "0xF710EF": {
+    "label": "Yellow",
+    "cmd": "R=250&G=250&B=0&W=0"
+  },
+  "0xF7A05F": {
+    "label": "Light Green",
+    "cmd": "R=200&G=250&B=100&W=0"
+  },
+  "0xF7906F": {
+    "label": "Dark Green",
+    "cmd": "R=100&G=150&B=0&W=0"
+  },
+  "0xF7609F": {
+    "label": "Light Blue",
+    "cmd": "R=0&G=250&B=250&W=0"
+  },
+  "0xF750AF": {
+    "label": "Purple",
+    "cmd": "R=100&G=0&B=200&W=0"
+  },
+  "0xF708F7": {
+    "label": "Speed +",
+    "cmd": "SX=~16"
+  },
+  "0xF748B7": {
+    "label": "Speed -",
+    "cmd": "SX=~-16"
+  },
+  "0xF738C7": {
+    "label": "Brightness +",
+    "cmd": "&A=~15"
+  },
+  "0xF7B847": {
+    "label": "Brightness -",
+    "cmd": "&A=~-15"
+  },
+  "0xF728D7": {
+    "label": "Preset 1",
+    "cmd": "&FX=0"
+  },
+  "0xF7A857": {
+    "label": "Preset 2",
+    "cmd": "&FX=1"
+  },
+  "0xF76897": {
+    "label": "Preset 3",
+    "cmd": "&FX=2"
+  },
+  "0xF7E817": {
+    "label": "Preset 4",
+    "cmd": "&FX=3"
+  },
+  "0xF7F00F": {
+    "label": "Up",
+    "cmd": "FP=~"
+  },
+  "0xF7C837": {
+    "label": "Down",
+    "cmd": "FP=~-"
+  },
+  "0xF7C03F": {
+    "label": "1 Hour",
+    "cmd": "NL=60"
+  },
+  "0xF7E01F": {
+    "label": "2 Hours",
+    "cmd": "NL=120"
+  },
+  "0xF7D02F": {
+    "label": "3 Hours",
+    "cmd": "NL=180"
+  }
+}
